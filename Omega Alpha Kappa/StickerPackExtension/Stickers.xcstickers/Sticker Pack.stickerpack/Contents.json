@@ -1,0 +1,59 @@
+{
+  "stickers" : [
+    {
+      "filename" : "CORRECT.sticker"
+    },
+    {
+      "filename" : "DOGGO.sticker"
+    },
+    {
+      "filename" : "EW BYE.sticker"
+    },
+    {
+      "filename" : "FAKE.sticker"
+    },
+    {
+      "filename" : "Hi Friends.sticker"
+    },
+    {
+      "filename" : "Honestly.sticker"
+    },
+    {
+      "filename" : "I'm Great.sticker"
+    },
+    {
+      "filename" : "INCOMPITENT.sticker"
+    },
+    {
+      "filename" : "IRRELEVANT.sticker"
+    },
+    {
+      "filename" : "JAKE.sticker"
+    },
+    {
+      "filename" : "Literally Bye.sticker"
+    },
+    {
+      "filename" : "OK BYE.sticker"
+    },
+    {
+      "filename" : "PAUSE.sticker"
+    },
+    {
+      "filename" : "REWIND.sticker"
+    },
+    {
+      "filename" : "Withing.sticker"
+    },
+    {
+      "filename" : "WRONG.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
